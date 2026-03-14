@@ -13,10 +13,7 @@ to identify key factors driving 30-day hospital readmissions.
 - Patients aged 70-80 had the highest readmission rates
 - Patients on 30+ medications were significantly more likely 
   to be readmitted within 30 days
-- Circulatory and respiratory conditions drove the most readmissions
-
-## Dashboard Preview
-![Dashboard](screenshots/dashboard_overview.png)
+- Circulatory and respiratory conditions drove the most readmission
 
 ## Dataset
 Source: UCI Machine Learning Repository
